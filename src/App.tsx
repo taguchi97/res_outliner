@@ -259,6 +259,7 @@ const App =()=> {
   ]
 
 
+
   const tableHeader = HeaderRow.map((row, index) =>
     <th>{row}</th>
   )
